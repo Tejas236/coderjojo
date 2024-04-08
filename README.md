@@ -35,4 +35,6 @@
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
 
-<!-- ![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg) -->
+<!-- ![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg) --jas
+
+tew
